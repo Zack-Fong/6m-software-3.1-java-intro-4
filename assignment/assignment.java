@@ -28,9 +28,8 @@ class Assignment {
          * Task 3: Cast "priceAsString" as int and assign it to "number".
          */
         int number = 0;
-        number = (int) (Float.parseFloat(priceAsString));
         // Add code here
-
+        number = (int) (Float.parseFloat(priceAsString));
         System.out.println("number prints " + number); // prints 9;
     }
 }
