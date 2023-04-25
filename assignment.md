@@ -9,3 +9,5 @@ Write your answer below:
 ```
 // Your answer
 ```
+
+Casting means taking a variable of one type and turning it to another type while Parsing means reading and deciding what the different parts of it mean.
